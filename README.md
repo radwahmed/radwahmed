@@ -38,8 +38,8 @@ I’m a **Mobile Developer** with expertise in Flutter and Dart, dedicated to bu
 ---
 ## GitHub Stats 📊
 
-![Radwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radwa-ahmed&show_icons=true&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radwa-ahmed)](https://git.io/streak-stats)
+![Radwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radwahmed&show_icons=true&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radwahmed)](https://git.io/streak-stats)
 
 ---
 
