@@ -10,15 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+beautiful+Flutter+apps+📱;Clean+Architecture+%7C+BLoC+%7C+MVVM;Always+learning.+Always+improving.+✨" />
-</p>
-
-<p align="center">
-  ──────────────────────────
-</p>
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20GitHub%20Profile&fontColor=C77DFF&fontSize=24&height=60" />
 </p>
 
