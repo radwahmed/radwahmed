@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Radwa+Ahmed" alt="Radwa Ahmed" />
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" />
-</h3>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
 
 <div align="center">
 
