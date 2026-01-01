@@ -1,29 +1,42 @@
-<!-- ===== Animated Name (Clean & Feminine) ===== -->
+<!-- ===================== Header ===================== -->
 <h1 align="center">
-   Radwa Ahmed 💜
+  Radwa Ahmed 💜
 </h1>
 
 <p align="center">
-  <em>
-    Flutter Developer • Minimal • Creative
-  </em>
+  <strong>Flutter Developer</strong> • Clean Architecture • AI-Driven Apps
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20GitHub%20Profile&fontColor=C77DFF&fontSize=24&height=60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=6A00F4&center=true&vCenter=true&width=650&lines=Building+scalable+Flutter+applications+📱;BLoC+%7C+MVVM+%7C+High+Performance;OAuth+%7C+AI+Chatbots+%7C+Voice+Assistants;Always+learning.+Always+improving.+✨" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20,24&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A00F4&height=4&section=header"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-💜 Flutter Developer passionate about **clean architecture**, **high performance**, and **beautiful UI**  
-🧠 I build mobile apps using **BLoC**, **MVVM**, and **AI integrations**  
-🚀 Always learning. Always improving.
+I’m a **Flutter Developer** focused on building **high-performance**, **scalable**, and **cleanly architected** mobile applications.  
+I enjoy transforming complex ideas into smooth user experiences using modern Flutter practices.
+
+**What I care about:**
+- Clean Architecture & Maintainable Code  
+- Performance & Scalability  
+- Beautiful, intuitive UI/UX  
+- Real-world problem solving  
+
+---
+
+## 🧠 What I Work With  
+
+- **Architecture:** MVVM, Clean Architecture  
+- **State Management:** BLoC  
+- **Authentication:** Email/Password, Google & GitHub OAuth  
+- **AI Features:** Chatbots, Voice Assistants (TTS / STT), Knowledge Bases  
+- **Backend Integration:** REST APIs, Flask  
 
 ---
 
@@ -33,36 +46,36 @@
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flutter" /><br/>Flutter
+<img src="https://skillicons.dev/icons?i=flutter" /><br/><strong>Flutter</strong>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=dart" /><br/>Dart
+<img src="https://skillicons.dev/icons?i=dart" /><br/><strong>Dart</strong>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase
+<img src="https://skillicons.dev/icons?i=firebase" /><br/><strong>Firebase</strong>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" /><br/>Python
+<img src="https://skillicons.dev/icons?i=python" /><br/><strong>Python</strong>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flask" /><br/>Flask
+<img src="https://skillicons.dev/icons?i=flask" /><br/><strong>Flask</strong>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" /><br/>Git
+<img src="https://skillicons.dev/icons?i=git" /><br/><strong>Git</strong>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" /><br/>GitHub
+<img src="https://skillicons.dev/icons?i=github" /><br/><strong>GitHub</strong>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" /><br/>Figma
+<img src="https://skillicons.dev/icons?i=figma" /><br/><strong>Figma</strong>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
+<img src="https://skillicons.dev/icons?i=vscode" /><br/><strong>VS Code</strong>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio" /><br/>Android Studio
+<img src="https://skillicons.dev/icons?i=androidstudio" /><br/><strong>Android Studio</strong>
 </td>
 </tr>
 </table>
@@ -73,19 +86,19 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radwahmed&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radwahmed&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwahmed&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwahmed&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Activity  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 </p>
 
 ---
@@ -94,7 +107,7 @@
 
 <p align="center">
   <a href="https://portfolio-one-red-53.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-6A00F4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -103,16 +116,16 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:radwa8ahmed8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/radwahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24&height=120&section=footer"/>
 </p>
