@@ -1,84 +1,45 @@
-<!-- ===================== Header ===================== -->
 <h1 align="center">
   Radwa Ahmed 💜
 </h1>
 
 <p align="center">
-  <strong>Flutter Developer</strong> • Clean Architecture • AI-Driven Apps
+  <strong>Flutter Developer</strong> <br/>
+  Clean Architecture • Scalable Apps • AI Integration
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=6A00F4&center=true&vCenter=true&width=650&lines=Building+scalable+Flutter+applications+📱;BLoC+%7C+MVVM+%7C+High+Performance;OAuth+%7C+AI+Chatbots+%7C+Voice+Assistants;Always+learning.+Always+improving.+✨" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A00F4&height=4&section=header"/>
+  📱 Building high-performance mobile applications with Flutter  
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I’m a **Flutter Developer** focused on building **high-performance**, **scalable**, and **cleanly architected** mobile applications.  
-I enjoy transforming complex ideas into smooth user experiences using modern Flutter practices.
+I am a **Flutter Developer** passionate about writing **clean, maintainable code** and building scalable mobile applications.
 
-**What I care about:**
-- Clean Architecture & Maintainable Code  
-- Performance & Scalability  
-- Beautiful, intuitive UI/UX  
-- Real-world problem solving  
+I focus on:
+- Clean Architecture & MVVM  
+- BLoC State Management  
+- High performance & smooth UI  
+- Real-world, production-ready apps  
 
 ---
 
-## 🧠 What I Work With  
+## 🧠 Expertise  
 
-- **Architecture:** MVVM, Clean Architecture  
-- **State Management:** BLoC  
-- **Authentication:** Email/Password, Google & GitHub OAuth  
-- **AI Features:** Chatbots, Voice Assistants (TTS / STT), Knowledge Bases  
-- **Backend Integration:** REST APIs, Flask  
+- Flutter & Dart  
+- MVVM + BLoC  
+- REST APIs & Backend Integration  
+- OAuth Authentication (Google & GitHub)  
+- AI Chatbots & Voice Assistants (TTS / STT)  
+- Flask Backend Integration  
 
 ---
 
 ## 🛠 Tech Stack  
 
 <p align="center">
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flutter" /><br/><strong>Flutter</strong>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=dart" /><br/><strong>Dart</strong>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=firebase" /><br/><strong>Firebase</strong>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" /><br/><strong>Python</strong>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flask" /><br/><strong>Flask</strong>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" /><br/><strong>Git</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" /><br/><strong>GitHub</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" /><br/><strong>Figma</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" /><br/><strong>VS Code</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio" /><br/><strong>Android Studio</strong>
-</td>
-</tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,flask,git,github,figma,vscode,androidstudio&theme=light" />
 </p>
 
 ---
@@ -86,46 +47,29 @@ I enjoy transforming complex ideas into smooth user experiences using modern Flu
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radwahmed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radwahmed&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radwahmed&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Activity  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwahmed&layout=compact&theme=transparent" />
 </p>
 
 ---
 
 ## 🌐 Portfolio  
 
-<p align="center">
-  <a href="https://portfolio-one-red-53.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6A00F4?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+🔗 **Portfolio:**  
+https://portfolio-one-red-53.vercel.app/
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Contact  
 
-<p align="center">
-  <a href="mailto:radwa8ahmed8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/radwahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 📧 Email: radwa8ahmed8@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/radwahmed/  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,24&height=120&section=footer"/>
+  <em>Always learning. Always improving.</em>
 </p>
