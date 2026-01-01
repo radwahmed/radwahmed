@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20GitHub&fontColor=C77DFF&fontSize=24&height=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20GitHub%20Profile&fontColor=C77DFF&fontSize=24&height=60" />
 </p>
 
 <p align="center">
@@ -61,23 +61,6 @@
 </tr>
 </table>
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 💎 Lama PBX App  
-📱 Flutter App with **Clean Architecture**  
-🧩 MVVM + BLoC  
-🔐 OAuth Authentication  
-⚙️ Environment-based config  
-
----
-
-### 🤖 AI Chatbot & Voice Assistant  
-🎤 Voice (TTS / STT)  
-📚 Knowledge Base  
-🤖 Dify AI Integration  
 
 ---
 
