@@ -1,11 +1,14 @@
-<!-- ===== Animated Name GIF ===== -->
+<!-- ===== Animated Name (Clean & Feminine) ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Radwa+Ahmed+💜;Flutter+Developer+📱;Minimal.+Creative.+Feminine.+✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=36&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Radwa+Ahmed+💜;Flutter+Developer+📱;Minimal+%26+Creative+✨" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="320" alt="Radwa Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20to%20my%20GitHub&fontColor=C77DFF&fontSize=24&height=60" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,20,24&height=4&section=header"/>
 </p>
 
 ---
