@@ -13,7 +13,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Universe-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://portfolio-one-red-53.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:radwa8ahmed8@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/radwahmed/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:radwa8ahmed8@gmail.com)
 [![Calendly](https://img.shields.io/badge/📅_Book_Call-Schedule_Now-00A2FF?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=000000)](https://calendly.com/radwa8ahmed8/30min)
 
 </div>
@@ -58,6 +59,8 @@ class RadwaAhmed extends FlutterDeveloper {
 <div align="center">
 
 ### 💻 Languages & Frameworks
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -168,6 +171,27 @@ The Cat API Integration
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ## 🎯 Current Mission
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce814cd15.gif" width="400" align="right">
@@ -188,6 +212,9 @@ The Cat API Integration
   
 <a href="https://portfolio-one-red-53.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Universe-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/radwahmed/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <a href="mailto:radwa8ahmed8@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
