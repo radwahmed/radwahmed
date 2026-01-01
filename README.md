@@ -1,6 +1,6 @@
 <!-- ===== Animated Name (Clean & Feminine) ===== -->
 <h1 align="center">
-  💜 Radwa Ahmed
+   Radwa Ahmed 💜
 </h1>
 
 <p align="center">
